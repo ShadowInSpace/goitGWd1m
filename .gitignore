@@ -45,3 +45,6 @@ build/
  target
  .DS_STORE /src/main/resources/log
 /.idea/
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
